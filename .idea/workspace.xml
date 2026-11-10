@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/01_arrays">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/10_as_casting">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/10_assoc_vs_generic">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/01_async_fn">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/06_async_aware_primitives">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/05_blocking">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/09_bounded">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/16_btreemap">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/07_cancellation">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/05_channels">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/08_client">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/11_clone">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/07_combinators">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/helpers/common">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/12_copy">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/11_dependencies">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/07_deref">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/04_derive">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/11_destructor">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/13_drop">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/05_encapsulation">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/01_enum">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/08_error_enums">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/09_error_trait">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/05_factorial">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/06_fallibility">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/07_for">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/09_from">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/04_future">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/15_hashmap">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/09_heap">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/03_if_else">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/04_if_let">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/08_impl_trait">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/09_impl_trait_2">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/13_index">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/14_index_mut">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/01_integers">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/06_interior_mutability">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/00_intro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/05_iter">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/04_iterators">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/03_leak">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/06_lifetimes">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/11_locks">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/02_match">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/03_modules">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/11_mutable_slices">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/05_nullability">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/02_orphan_rule">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/12_outro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/14_outro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/15_outro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/08_outro">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/08_overflow">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/03_operator_overloading">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/06_ownership">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/10_packages">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/04_panics">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/10_patch">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/10_references_in_memory">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/03_resizing">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/07_ack">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/03_runtime">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/12_rw_lock">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/09_saturating">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/04_scoped_threads">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/07_setters">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/08_sized">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/10_slices">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/14_source">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/08_futures/02_spawn">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/08_stack">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/02_static">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/06_str_slice">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/01_struct">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/14_sync">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/01_intro/01_syntax">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/12_thiserror">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/01_threads">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/helpers/ticket_fields">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/01_trait">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/04_traits/05_trait_bounds">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/13_try_from">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/12_two_states">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/07_unwrap">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/02_validation">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/02_variables">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/05_ticket_v2/03_variants_with_data">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/06_ticket_management/02_vec">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/03_ticket_v1/04_visibility">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/01_intro/00_welcome">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/02_basic_calculator/06_while">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/exercises/07_threads/13_without_channels">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92ee4bfc-5deb-42bd-83b8-45e7604c31c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/00_intro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/00_intro/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/01_struct/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/01_struct/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/02_validation/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/02_validation/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/03_modules/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/03_modules/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/04_visibility/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/04_visibility/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/05_encapsulation/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/05_encapsulation/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/06_ownership/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/06_ownership/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/07_setters/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/07_setters/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/08_stack/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/08_stack/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/09_heap/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/09_heap/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/10_references_in_memory/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/10_references_in_memory/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/11_destructor/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/11_destructor/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_ticket_v1/12_outro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_ticket_v1/12_outro/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/00_intro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/00_intro/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/01_trait/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/01_trait/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/02_orphan_rule/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/02_orphan_rule/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/03_operator_overloading/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/03_operator_overloading/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/04_derive/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/04_derive/src/lib.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="solutions" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="mJFJtWpy" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3539570407575622E-107" />
+      <entry key="S2" value="3.0662630917329672E-27" />
+      <entry key="S5" value="4.339459690420773E-11" />
+      <entry key="S10" value="1.2701815332209566E-5" />
+      <entry key="S30" value="0.06525902839324028" />
+      <entry key="S60" value="0.5677363912409548" />
+      <entry key="M2" value="1.6822162927542477" />
+      <entry key="M5" value="3.232743191227113" />
+      <entry key="M10" value="4.020159368024722" />
+      <entry key="M15" value="4.32330315308345" />
+      <entry key="M30" value="4.739490136652798" />
+      <entry key="H1" value="10.367051291892418" />
+      <entry key="H2" value="53.04631180606649" />
+      <entry key="H4" value="163.6463239031462" />
+      <entry key="D1" value="574.8325917228659" />
+      <entry key="W1" value="757.5198066459778" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000756024" />
+      <entry key="S10" value="1.000023163243251" />
+      <entry key="S30" value="1.1194918543403864" />
+      <entry key="S60" value="2.0327037515386808" />
+      <entry key="M2" value="4.045449651978329" />
+      <entry key="M5" value="6.833052121551895" />
+      <entry key="M10" value="8.245206854935173" />
+      <entry key="M15" value="8.788325232737055" />
+      <entry key="M30" value="9.380014191100535" />
+      <entry key="H1" value="10.14577816904463" />
+      <entry key="H2" value="13.833880160056788" />
+      <entry key="H4" value="23.39240342870655" />
+      <entry key="D1" value="62.19292337185279" />
+      <entry key="W1" value="80.26094703789406" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.170026077066823E-4" />
+      <entry key="MS500" value="0.18505166225000613" />
+      <entry key="S2" value="0.6558782778120646" />
+      <entry key="S5" value="0.8447521370232501" />
+      <entry key="S10" value="0.9191380723938847" />
+      <entry key="S30" value="1.153938748765958" />
+      <entry key="S60" value="2.573119860992532" />
+      <entry key="M2" value="5.700940790052832" />
+      <entry key="M5" value="10.04786867176083" />
+      <entry key="M10" value="12.254569607932217" />
+      <entry key="M15" value="13.103960533165289" />
+      <entry key="M30" value="14.115404983963899" />
+      <entry key="H1" value="20.51034679798213" />
+      <entry key="H2" value="66.87754873078468" />
+      <entry key="H4" value="187.03553606100206" />
+      <entry key="D1" value="637.0235932733776" />
+      <entry key="W1" value="837.780380915377" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LgxEUfyliLpOEyA8EfachPKMZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Test integration.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests (2).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests (3).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests (4).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests (5).executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test lib::tests.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests::bool_to_u8.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests::u16_to_u32.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests::u8_to_i8.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests::works.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/martinbago/dev/rust/100-exercises-to-learn-rust&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Cargo.Test lib::tests (2)">
+    <configuration name="Run packages" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package packages --bin packages" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test 100-exercises-to-learn-rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="buildProfileId" value="test" />
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test integration" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package outro_02 --test integration" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::tests (1)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package overloading --lib -- tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::tests (2)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package derives --lib -- tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::tests (4)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package intro_03 --lib -- tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package trait_ --lib -- tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test lib::tests (2)" />
+        <item itemvalue="Cargo.Test lib::tests (1)" />
+        <item itemvalue="Cargo.Test lib::tests" />
+        <item itemvalue="Cargo.Test lib::tests (4)" />
+        <item itemvalue="Cargo.Test integration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92ee4bfc-5deb-42bd-83b8-45e7604c31c3" name="Changes" comment="" />
+      <created>1793889400224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793889400224</updated>
+      <workItem from="1793889401249" duration="4701000" />
+      <workItem from="1793987569839" duration="1294000" />
+      <workItem from="1794062081140" duration="3847000" />
+      <workItem from="1794150220108" duration="1924000" />
+      <workItem from="1794212351138" duration="2627000" />
+      <workItem from="1794318292253" duration="1435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
