@@ -2,7 +2,16 @@
 //   When the description is invalid, instead, it should use a default description:
 //   "Description not provided".
 fn easy_ticket(title: String, description: String, status: Status) -> Ticket {
-    todo!()
+    let ticket = Ticket::new(title, description, status);
+    match ticket {
+        Ok(ticket) => ticket,
+        Err(err_msg) => {
+            if err_msg == "Description cannot be empty".to_string()
+                || err_msg == "Description cannot be longer than 500 bytes".to_string() {
+                return Ticket::new(ticket.title, "Description not provided".to_string(), status).unwrap_or_else(panic!("{}", err_msg));
+            }
+        }
+    }
 }
 
 #[derive(Debug, PartialEq, Clone)]

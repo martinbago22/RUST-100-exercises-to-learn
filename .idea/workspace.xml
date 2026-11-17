@@ -310,8 +310,18 @@
   <component name="ChangeListManager">
     <list default="true" id="92ee4bfc-5deb-42bd-83b8-45e7604c31c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_traits/05_trait_bounds/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/05_trait_bounds/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_traits/06_str_slice/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/06_str_slice/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/11_clone/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/11_clone/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/12_copy/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/12_copy/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/13_drop/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/13_drop/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_traits/14_outro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_traits/14_outro/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/00_intro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/00_intro/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/01_enum/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/01_enum/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/02_match/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/02_match/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/03_variants_with_data/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/03_variants_with_data/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/04_if_let/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/04_if_let/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/05_nullability/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/05_nullability/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/06_fallibility/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/06_fallibility/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_ticket_v2/07_unwrap/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_ticket_v2/07_unwrap/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,61 +342,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001363274802522" />
-      <entry key="S2" value="1.1269752199791987" />
-      <entry key="S5" value="1.6152440887464552" />
-      <entry key="S10" value="2.0931573334204723" />
-      <entry key="S30" value="2.630606430818723" />
-      <entry key="S60" value="2.8620652419439994" />
-      <entry key="M2" value="3.3786159544652588" />
-      <entry key="M5" value="4.67049630757574" />
-      <entry key="M10" value="5.5974033188535675" />
-      <entry key="M15" value="6.023868967525383" />
-      <entry key="M30" value="6.815233742444109" />
-      <entry key="H1" value="9.540252301274196" />
-      <entry key="H2" value="34.51057003992311" />
-      <entry key="H4" value="125.07980450001179" />
-      <entry key="D1" value="551.4444955285097" />
-      <entry key="W1" value="758.6656154370157" />
+      <entry key="MS100" value="1.0057588641300435" />
+      <entry key="MS500" value="1.3565064293410352" />
+      <entry key="S2" value="1.7727150548444446" />
+      <entry key="S5" value="1.9095300638965411" />
+      <entry key="S10" value="2.1118797270849807" />
+      <entry key="S30" value="6.867551628282142" />
+      <entry key="S60" value="16.66365411636913" />
+      <entry key="M2" value="33.91772534169883" />
+      <entry key="M5" value="80.81104378575886" />
+      <entry key="M10" value="134.77571411437614" />
+      <entry key="M15" value="169.26368554336275" />
+      <entry key="M30" value="223.03311519213094" />
+      <entry key="H1" value="262.32770503706854" />
+      <entry key="H2" value="286.6917729092091" />
+      <entry key="H4" value="304.82945729779124" />
+      <entry key="D1" value="696.5376934346958" />
+      <entry key="W1" value="1227.705651078521" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.51578789409886E-169" />
-      <entry key="S2" value="7.700386554887936E-43" />
-      <entry key="S5" value="1.444726747533792E-17" />
-      <entry key="S10" value="4.192355246785577E-9" />
-      <entry key="S30" value="0.0023028329160112515" />
-      <entry key="S60" value="0.06676584601304726" />
-      <entry key="M2" value="0.3638874543965737" />
-      <entry key="M5" value="1.010564227085888" />
-      <entry key="M10" value="1.424740387540381" />
-      <entry key="M15" value="1.6406368133435743" />
-      <entry key="M30" value="2.477295372701867" />
-      <entry key="H1" value="4.6461154248788725" />
-      <entry key="H2" value="9.1550170650592" />
-      <entry key="H4" value="18.860781998428195" />
-      <entry key="D1" value="60.90169077737436" />
-      <entry key="W1" value="81.64018500898631" />
+      <entry key="MS100" value="5.5978314596855675E-127" />
+      <entry key="MS500" value="5.626192990604981E-26" />
+      <entry key="S2" value="6.213712163163955E-7" />
+      <entry key="S5" value="0.005674308371847351" />
+      <entry key="S10" value="0.13715717542533343" />
+      <entry key="S30" value="1.6452803174813009" />
+      <entry key="S60" value="4.154661521205553" />
+      <entry key="M2" value="8.472081014831407" />
+      <entry key="M5" value="18.657805338566856" />
+      <entry key="M10" value="31.469561938143535" />
+      <entry key="M15" value="40.99602738646133" />
+      <entry key="M30" value="57.737977925563314" />
+      <entry key="H1" value="71.08601665137883" />
+      <entry key="H2" value="79.70953788502082" />
+      <entry key="H4" value="85.73052933422557" />
+      <entry key="D1" value="152.55733717730678" />
+      <entry key="W1" value="228.08766209219257" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.18685615607936729" />
-      <entry key="MS500" value="0.7150435298683028" />
-      <entry key="S2" value="1.020131037019572" />
-      <entry key="S5" value="1.5308532522422416" />
-      <entry key="S10" value="2.0312330365116926" />
-      <entry key="S30" value="2.604853941151781" />
-      <entry key="S60" value="2.9109322278170056" />
-      <entry key="M2" value="3.7253609804293055" />
-      <entry key="M5" value="5.665943926555351" />
-      <entry key="M10" value="7.01171044006732" />
-      <entry key="M15" value="7.656685327420044" />
-      <entry key="M30" value="9.2878655710855" />
-      <entry key="H1" value="14.183382538602427" />
-      <entry key="H2" value="43.66301977561667" />
-      <entry key="H4" value="143.93767892410472" />
-      <entry key="D1" value="612.344264218874" />
-      <entry key="W1" value="840.3054159810206" />
+      <entry key="MS100" value="0.006389890050829967" />
+      <entry key="MS500" value="0.39533415087168033" />
+      <entry key="S2" value="1.1974826259551439" />
+      <entry key="S5" value="1.6227552054422891" />
+      <entry key="S10" value="2.0636460382137556" />
+      <entry key="S30" value="8.33509535970556" />
+      <entry key="S60" value="20.648227110966165" />
+      <entry key="M2" value="42.24433754432661" />
+      <entry key="M5" value="99.3572043689029" />
+      <entry key="M10" value="166.15313723813807" />
+      <entry key="M15" value="210.17959295200515" />
+      <entry key="M30" value="280.71457294372345" />
+      <entry key="H1" value="333.37896383831753" />
+      <entry key="H2" value="366.3818514860334" />
+      <entry key="H4" value="390.549508807957" />
+      <entry key="D1" value="849.0914914098696" />
+      <entry key="W1" value="1455.7924872489737" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -407,7 +417,9 @@
     &quot;Cargo.Test lib::tests (4).executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test lib::tests (5).executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test lib::tests.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test test_saturating_u16.executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test tests::bool_to_u8.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests::test_ops.executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test tests::u16_to_u32.executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test tests::u8_to_i8.executor&quot;: &quot;Run&quot;,
     &quot;Cargo.Test tests::works.executor&quot;: &quot;Run&quot;,
@@ -428,7 +440,7 @@
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Cargo.Test lib::tests (3)">
+  <component name="RunManager" selected="Cargo.Test lib::tests (1)">
     <configuration name="Run packages" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package packages --bin packages" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -465,24 +477,7 @@
       </method>
     </configuration>
     <configuration name="Test lib::tests (1)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package overloading --lib -- tests" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test lib::tests (2)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package derives --lib -- tests" />
+      <option name="command" value="test --package fallibility --lib -- tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -499,7 +494,7 @@
       </method>
     </configuration>
     <configuration name="Test lib::tests (3)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package str_slice --lib -- tests" />
+      <option name="command" value="test --package match_ --lib -- tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -516,7 +511,24 @@
       </method>
     </configuration>
     <configuration name="Test lib::tests (4)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package intro_03 --lib -- tests" />
+      <option name="command" value="test --package variants_with_data --lib -- tests" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test lib::tests (5)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package nullability --lib -- tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -533,7 +545,7 @@
       </method>
     </configuration>
     <configuration name="Test lib::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package trait_ --lib -- tests" />
+      <option name="command" value="test --package if_let --lib -- tests" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -551,11 +563,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cargo.Test lib::tests (3)" />
-        <item itemvalue="Cargo.Test lib::tests (2)" />
         <item itemvalue="Cargo.Test lib::tests (1)" />
+        <item itemvalue="Cargo.Test lib::tests (5)" />
         <item itemvalue="Cargo.Test lib::tests" />
         <item itemvalue="Cargo.Test lib::tests (4)" />
+        <item itemvalue="Cargo.Test lib::tests (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -575,6 +587,10 @@
       <workItem from="1794150220108" duration="1924000" />
       <workItem from="1794212351138" duration="2627000" />
       <workItem from="1794318292253" duration="2529000" />
+      <workItem from="1794773484450" duration="132000" />
+      <workItem from="1794773628345" duration="5481000" />
+      <workItem from="1794926485498" duration="2007000" />
+      <workItem from="1794928523011" duration="439000" />
     </task>
     <servers />
   </component>
